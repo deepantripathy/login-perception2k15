@@ -1,5 +1,6 @@
-hello guys 
+New One
 
-login page of Perception 2015 
-made by @deepantripathy , @tworitdash , @prayashm
+Login Page of Perception-2015
 
+Thanx [@tworitdash](https://github.com/tworitdash) and [@tarashish](https://github.com/sunu)
+for help :)
